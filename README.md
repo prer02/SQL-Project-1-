@@ -1,4 +1,4 @@
-# *SQL-Project: *
+# *SQL-Project:*
 In this Project, I have worked with a simplified version of an Instagram-like database schema. This schema represents the core components of a social media platform where users can post photos, like, comment, follow each other, and more.
 
 
