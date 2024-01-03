@@ -1,5 +1,5 @@
 # SQL-Project-1
-In this exercise, I have worked with a simplified version of an Instagram-like database schema. This schema represents the core components of a social media platform where users can post photos, like, comment, follow each other, and more.
+In this Project, I have worked with a simplified version of an Instagram-like database schema. This schema represents the core components of a social media platform where users can post photos, like, comment, follow each other, and more.
 
 
 As part of your learning journey, I'll be using a range of SQL functions to perform intricate data analysis tasks on the provided database. These functions enable you to extract meaningful insights from complex datasets, enhancing your ability to work with real-world scenarios.
