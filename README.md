@@ -37,7 +37,7 @@ Task is to write SQL queries using a variety of functions to extract valuable in
 
 
 
-# *1) How many times does the average user post?*
+£ *1) How many times does the average user post?*
 
 # *2) Find the top 5 most used hashtags.*
 
