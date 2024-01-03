@@ -5,7 +5,7 @@ In this Project, I have worked with a simplified version of an Instagram-like da
 As part of the learning journey, I'll be using a range of SQL functions to perform intricate data analysis tasks on the provided database. These functions enable  to extract meaningful insights from complex datasets, enhancing your ability to work with real-world scenarios.
 
 
-Database Schema Overview:
+# *Database Schema Overview:*
 
 
 Here's a brief overview of the tables I'll be working with:
@@ -26,7 +26,7 @@ tags: Manages unique tag names for photos.
 photo_tags: Links photos with associated tags.
 
 
-Task:
+# *Task:*
 
 
 Task is to write SQL queries using a variety of functions to extract valuable insights from the database. These insights could be used by the platform to understand user behavior, engagement, and trends.
