@@ -37,11 +37,11 @@ Task is to write SQL queries using a variety of functions to extract valuable in
 
 
 
-   ## 1) How many times does the average user post?*
+   ## 1) How many times does the average user post?
 
-   ## 2) Find the top 5 most used hashtags.*
+   ## 2) Find the top 5 most used hashtags.
 
-   ## 3) Find users who have liked every single photo on the site.*
+   ## 3) Find users who have liked every single photo on the site.
 
    ## 4) Retrieve a list of users along with their usernames and the rank of their account creation, ordered by the creation date in ascending order.
 
@@ -53,6 +53,6 @@ Task is to write SQL queries using a variety of functions to extract valuable in
    
   ## 8) Display the username of each user along with the creation date of their first posted photo and the creation date of their next posted photo.
 
-  ## 9) For each comment, show the comment text, the username of the commenter, and the comment text of the previous comment made on the same photo.*
+  ## 9) For each comment, show the comment text, the username of the commenter, and the comment text of the previous comment made on the same photo.
 
- ## 10) Show the username of each user along with the number of photos they have posted and the number of photos posted by the user before them and after them, based on the creation date.*
+ ## 10) Show the username of each user along with the number of photos they have posted and the number of photos posted by the user before them and after them, based on the creation date.
